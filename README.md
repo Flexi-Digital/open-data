@@ -1,19 +1,17 @@
-# open-data
-Flexi Digital Open Data
+# Flexi Digital Open Data
 
-Open Data Endpoints
+## Open Data Endpoints
+- https://open.flexidigital.co.uk/oa/?afterTimestamp=0 - a feed of leagues from flexiapp.co.uk
 
-https://open.flexidigital.co.uk/oa/afterTimestamp=0 - a feed of leagues from flexiapp.co.uk
+## Standards
+- The data feeds are published to conform to [OpenActive Realtime Paged Data Exchange 0.2.3](https://www.openactive.io/realtime-paged-data-exchange/0.2.3/).
+- The activity list is published to conform to [OpenActive Modelling Opportunity Data](https://www.openactive.io/modelling-opportunity-data/).
 
-Standards
+## Issues, Questions and Comments
+Please raise any issues, questions or comments as a [new issue in this repository](https://github.com/gomammoth/opendata/issues).
 
-The data feeds are published to conform to OpenActive Realtime Paged Data Exchange 0.2.3.
-The activity list is published to conform to OpenActive Modelling Opportunity Data.
-Issues, Questions and Comments
+## Changelog
 
-Please raise any issues, questions or comments as a new issue in this repository.
-
-Changelog
-
-Date	Changes
-10/07/2017	Initial version published
+| Date | Changes |
+|---|---|
+| 10/07/2017 | Initial version published |
